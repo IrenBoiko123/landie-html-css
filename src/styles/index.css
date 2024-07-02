@@ -1,0 +1,56 @@
+@import "reset.css";
+@import "header.css";
+@import "light.css";
+@import "light1.css";
+@import "light2.css";
+@import "light3.css";
+@import "price.css";
+@import "footer.css";
+
+.light_fast {
+  padding: 115px 0;
+}
+
+.container {
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.light_fast__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading {
+  color: #091133;
+  font-family: Roboto, sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 48px;
+}
+
+.light_fast__image-wrapper {
+  width: 480px;
+}
+
+.light_fast__image {
+  width: 100%;
+}
+
+.light_fast__text_wrapper {
+  width: 450px;
+}
+
+.light_fast__heading {
+  margin-bottom: 30px;
+}
+
+.text {
+  color: #6f7cb2;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
